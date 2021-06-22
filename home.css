@@ -1,0 +1,55 @@
+.welcome{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 10px;
+color: #1026F0;
+}
+
+.login{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 10px;
+color: #124EE9;
+text-decoration: none;
+}
+
+.daftar{
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 10px;
+color: #1849F4;
+}
+
+.akun{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 10px;
+color: #000000;
+}
+
+.logo{
+position: absolute;
+width: 126px;
+height: 60px;
+left: 14px;
+top: 79px;
+}
+
+body{
+	background-image: url('background home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home{
+	padding-top: 200px;
+}

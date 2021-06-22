@@ -1,0 +1,182 @@
+body{
+    font-family: Roboto;
+}
+
+.panel-back a {
+        
+       
+        
+    }
+    .panel-back a + a {
+        border-left: 1px solid #ddd;
+    }
+    .panel-back .icon {
+        fill: blue;
+        width: 24px;
+        height: 24px;
+    }
+    .panel-back .icon + span {
+        display:block;
+
+    }
+
+.panel-logout a {
+        display: inline-block;
+        padding: 0 16px;
+        line-height: 1.25;
+        font-size: 16px;
+        line-height: 0.5;
+        text-align: center;
+    }
+    .panel-logout a + a {
+        border-left: 1px solid #ddd;
+    }
+    .panel-logout .icon {
+        fill: blue;
+        width: 24px;
+        height: 24px;
+    }
+    .panel-logout .icon + span {
+        display:block;
+
+    }
+.panel-atas a {
+        display: inline-block;
+        padding: 0 16px;
+        line-height: 1.25;
+        font-size: 16px;
+        line-height: 0.5;
+        text-align: right;
+    }
+    .panel-atas a + a {
+        border-left: 1px solid #ddd;
+    }
+    .panel-atas .ikon {
+        fill: blue;
+        width: 24px;
+        height: 24px;
+    }
+    .panel-atas .ikon + span {
+        display:block;
+
+    }
+
+.logo{
+position: absolute;
+left: 14px;
+top: 100px;
+}
+
+.cari{
+margin-top: 100px;
+margin-bottom: 0px;
+margin-left: 20px;
+margin-right:  0px;
+}
+
+.kata{
+font-style: bolder;
+font-weight: 50px;
+font-size: 48px;
+background-color: #E8FA19;
+margin-right: 600px;
+}
+
+.klik{
+    color: #000000;
+    text-decoration: none;
+}
+
+.produk{
+    display: flex;
+}
+
+
+.btn_checkout{
+    padding: 3px 10px;
+    margin-bottom: 10px;
+    background: #51ABFE;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.btn_checkout:hover {
+    background: #0983F3 ;
+    border: 1px solid #000000;
+}
+
+.button_pesan{
+    text-align: center;
+    padding: 3px 45px 3px 45px;
+    margin-left: 0px;
+    background: #51ABFE;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+.button_pesan:hover {
+    background: #0983F3 ;
+    border: 1px solid #000000;
+}
+
+.map{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.btn_terima{
+    text-align: center;
+    padding: 3px 25px 3px 25px;
+    margin-left: 0px;
+    background: #21E435;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+.btn_terima:hover {
+    background: #20E828 ;
+    border: 1px solid #000000;
+}
+
+.btn_batal{
+    text-align: center;
+    padding: 3px 25px 3px 25px;
+    margin-left: 0px;
+    background: #FF1313;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+.btn_batal:hover {
+    background: #FF0000 ;
+    border: 1px solid #000000;
+}
+
+
+.btn_transfer{
+    text-align: center;
+    padding: 3px 45px 3px 45px;
+    margin-left: 0px;
+    background: #21E435;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+.btn_transfer:hover {
+    background: #20E828 ;
+    border: 1px solid #000000;
+
+}
+
+.ringkasan{
+    background:gray;
+}

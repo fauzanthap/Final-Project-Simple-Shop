@@ -1,0 +1,37 @@
+body{
+    font-family: Roboto;
+}
+
+.tabel_login{
+border-collapse: collapse;
+border-color: #000000;
+}
+
+.login{
+	padding-top: 150px;
+	border-collapse: collapse;
+
+}
+.btn_login{
+text-align: center;
+    padding: 3px 30px 3px 30px;
+    background: #51ABFE;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+.btn_login:hover {
+    background: #0983F3 ;
+    border: 1px solid #000000;
+}
+
+.ikon{
+	margin-top: 10px;
+	margin-bottom: -20px;
+}
+
+.judul{
+    font-size: 30px;
+}

@@ -1,0 +1,141 @@
+body{
+    font-family: Roboto;
+}
+
+.panel-logout a {
+        display: inline-block;
+        padding: 0 16px;
+        line-height: 1.25;
+        font-size: 16px;
+        line-height: 0.5;
+        text-align: center;
+    }
+    .panel-logout a + a {
+        border-left: 1px solid #ddd;
+    }
+    .panel-logout .icon {
+        fill: blue;
+        width: 24px;
+        height: 24px;
+    }
+    .panel-logout .icon + span {
+        display:block;
+
+    }
+
+.panel-atas a {
+        display: inline-block;
+        padding: 0 16px;
+        line-height: 1.25;
+        font-size: 16px;
+        line-height: 0.5;
+        text-align: right;
+        
+    }
+    .panel-atas a + a {
+        border-left: 1px solid #ddd;
+    }
+    .panel-atas .ikon {
+        fill: blue;
+        width: 24px;
+        height: 24px;
+    }
+    .panel-atas .ikon + span {
+        display:block;
+    }
+
+.logo{
+position: absolute;
+left: 14px;
+top: 100px;
+}
+
+.kata{
+font-family: Roboto;
+font-style: bolder;
+font-weight: 36px;
+font-size: 36px;
+padding: 3px 45px 3px 45px;
+background: #0033E9;
+color: rgba(0, 255, 148, 1);
+text-decoration: none;
+border-radius: 5px;
+margin-left:250px;
+top: 79px; 
+}
+
+.btn_edit {
+    padding: 3px 10px ;
+    margin-left: 0px;
+    background: #21E435;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn_edit:hover
+{
+    background: #00680A;
+    border: 1px solid #000000;
+}
+
+.btn_hapus {
+    padding: 3px 10px ;
+    margin-left: 0px;
+    background: #FF1313;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn_hapus:hover
+
+{
+    background: #BF0303;
+    border: 1px solid #000000;
+}
+
+.produk{
+    border-collapse: collapse;   
+}
+
+
+.tambah{
+    padding: 3px 10px ;
+    background: #E8FA19;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.tambah:hover
+{
+    background: #B1C000;
+    border: 1px solid #000000;
+}
+
+.excel{
+   padding: 3px 10px ;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.excel:hover{
+    background: #003E06;
+    border: 1px solid #000000;
+}
+
+.pdf{
+     padding: 3px 10px ;
+     margin-left: 200px;
+    border-radius: 5px;
+}
+
+.pdf:hover{
+    background: #AC5300;
+    border: 1px solid #000000;
+}
+
+.download{
+    margin-top: 250px;
+}

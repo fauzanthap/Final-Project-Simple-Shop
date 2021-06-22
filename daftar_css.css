@@ -1,0 +1,43 @@
+body{
+    font-family: Roboto;
+}
+
+.daftar{
+padding-top:30px;
+border-collapse: collapse;
+}
+.ikon{
+    margin-bottom: -20px;
+}
+
+.button{
+	text-align: center;
+    padding: 3px 60px 3px 60px;
+    background: #51ABFE;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.button:hover {
+    background: #0983F3 ;
+    border: 1px solid #000000;
+}
+
+.login{
+	font-size: 20px;
+}
+
+.link{
+	text-decoration: none;
+	color: #124EE9;
+}
+
+.judul{
+    font-size: 20px;
+}
+
+.tabel_daftar{
+    border-color: #000000;
+    border-collapse: collapse;
+}
